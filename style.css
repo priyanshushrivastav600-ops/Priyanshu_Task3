@@ -1,0 +1,45 @@
+body {
+   background-color: rgb(204, 82, 38);
+}
+
+.head {
+   color: darkblue;
+}
+
+#bglime {
+   background-color: yellowgreen;
+}
+
+span {
+   color: red;
+}
+
+#para {
+   color: green;
+   font-size: 13px;
+}
+
+p {
+   color: white;
+}
+
+p span {
+   color: black;
+   font-size: 25px;
+}
+
+ul li {
+   color: white;
+}
+
+p strong {
+   color: black;
+}
+
+ol li:nth-child(2) {
+   color: blue;
+}
+
+ol li:nth-child(3) {
+   color: red;
+}
